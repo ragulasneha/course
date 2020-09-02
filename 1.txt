@@ -1,2 +1,3 @@
 welcome to azure 
-
+divide
+add function
